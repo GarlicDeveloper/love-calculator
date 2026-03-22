@@ -22,7 +22,7 @@ A fun Love Calculator built using **HTML, CSS & JavaScript** that takes two name
 
 ## Output
 
-![Love Calculator Output](Screenshot%20(226).png)
+![Love Calculator Output](Screenshot%20(227).png)
 
 ---
 
